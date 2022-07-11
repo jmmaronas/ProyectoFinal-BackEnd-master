@@ -1,0 +1,25 @@
+[
+    {
+        "compra": [
+            {
+                "id": 2,
+                "name": "Notebook HP 15-dw1083la",
+                "description": "TAMAÑO DE PANTALLA 15.6\" COLOR Cubierta y base de color negro azabache, marco de teclado de color plateado natural",
+                "code": "note-02",
+                "urlImage": "https://ar-media.hptiendaenlinea.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/3/4/349M7LA-1_T1648073301.png",
+                "price": "104999",
+                "stock": "9"
+            },
+            {
+                "id": "2",
+                "name": "Notebook HP 15-dw1083la",
+                "description": "TAMAÑO DE PANTALLA 15.6\" COLOR Cubierta y base de color negro azabache, marco de teclado de color plateado natural",
+                "code": "note-02",
+                "urlImage": "https://ar-media.hptiendaenlinea.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/3/4/349M7LA-1_T1648073301.png",
+                "price": "104999",
+                "stock": "9"
+            }
+        ],
+        "id": 1
+    }
+]
